@@ -16,33 +16,33 @@ npm run build
 ### 项目预览
 ![项目预览]("./src/assets/pro.png")
 ### 项目结构
-│  App.vue
-│  main.js
-│
-├─assets
-│  │  logo.png
-│  │  preview.gif
-│  │  pro.png
-│  │
-│  └─css
-│          gloabal.css
-│
-├─components
-│  │  Home.vue
-│  │  Login.vue
-│  │  Welcome.vue
-│  │
-│  ├─power
-│  │      Rights.vue
-│  │      Roles.vue
-│  │
-│  └─user
-│          Users.vue
-│
-├─plugins
-│      element.js
-│
-├─router
-│      index.js
-│
-└─views
+│  App.vue  
+│  main.js  
+│  
+├─assets  
+│  │  logo.png  
+│  │  preview.gif  
+│  │  pro.png  
+│  │  
+│  └─css  
+│          gloabal.css  
+│  
+├─components  
+│  │  Home.vue  
+│  │  Login.vue  
+│  │  Welcome.vue  
+│  │  
+│  ├─power  
+│  │      Rights.vue  
+│  │      Roles.vue  
+│  │  
+│  └─user  
+│          Users.vue  
+│  
+├─plugins  
+│      element.js  
+│  
+├─router  
+│      index.js  
+│  
+└─views  
