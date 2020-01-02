@@ -14,7 +14,7 @@ npm run serve
 npm run build
 ```
 ### 项目预览
-![项目预览]("./src/assets/pro.png")
+![项目预览]("src/assets/pro.png")
 ### 项目结构
 │  App.vue  
 │  main.js  
